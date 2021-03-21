@@ -2,9 +2,9 @@
 
 - [教程来源](https://www.bugcatt.com/archives/292)
 
-![预览](https://raw.githubusercontent.com/li-bing-xin/Langaw/master/example.png)
+### 预览
 
-<img src="https://github.com/ParfoisMeng/SlideBack/raw/master/screenshot/jike.gif" width="260px"/>
+<img src="https://raw.githubusercontent.com/li-bing-xin/Langaw/master/example.png" width="400px"/>
 
 ### apk 下载地址:
 
